@@ -31,3 +31,6 @@ Leikpeðin eru sett á byrjunar reit og peningarnir eru settir í tunnuna í hor
 - Þegar maður lendir á gulum reit dregur maður gult tomb spil (góðu spilin)
 - Þegar maður lendir á appelsínugulum reit dregur maður appelsínugult tomb spil (vondu spilin)
 - Ef það er engin litur á reitnum ertu örugg/ur og ekkert gerist
+---
+## Spilin 
+---

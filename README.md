@@ -26,8 +26,8 @@ Leikpeðin eru sett á byrjunar reit og peningarnir eru settir í tunnuna í hor
 - Sá sem eru fyrstur komin að fjársjóðnum vinnur leikin
 
 ## Reitirnir:
-- Bláir reitir eru vatn ef maður lendir á þeim fer maður aftur á byrjun
-- Rauðir reitir eru eldur ef maður lendir á þeim fer maður á byrjun 
+- Bláir reitir eru vatn ef maður lendir á þeim fer maður aftur um 8
+- Rauðir reitir eru eldur ef maður lendir á þeim fer maður aftur á byrjun 
 - Þegar maður lendir á gulum reit dregur maður gult tomb spil (góðu spilin)
 - Þegar maður lendir á appelsínugulum reit dregur maður appelsínugult tomb spil (vondu spilin)
 - Ef það er engin litur á reitnum ertu örugg/ur og ekkert gerist

@@ -1,6 +1,7 @@
 # Tomb-Runner-s
 ---
-
+## Leik reglur 
+---
 ## Hvernig vinnur maður?
 Sá sem kemst fyrst út úr hellinum og nær fjársjóðinum vinnur leikin.
 

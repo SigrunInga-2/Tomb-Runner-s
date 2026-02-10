@@ -43,5 +43,4 @@ Tomb Runner’s er ævintýra spil þar sem leikmenn eru fastir í helli að rey
 - Ef heppnin er með manni getur maður dregið eitt af góðu tomb spilunum þau gefa þér fleiri peninga en gulu tomb spilin gera eða færa þig áfram um nokkrar reiti, það eru samt mjög fá þannig spil í bunkanum
 - Ef það er engin litur á reitnum ertu örugg/ur og ekkert gerist
 
-![20260210_113301](https://github.com/user-attachments/assets/8bc50837-99a4-401d-8eb0-cc9670ecc1a6)
-
+<img src="linkur á ljósmynd" width="50%" height="50%">

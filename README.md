@@ -49,4 +49,4 @@ Tomb Runner’s er ævintýra spil þar sem leikmenn eru fastir í helli að rey
 <img src="https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/Peningar.%20GULL%20(1).stl" width="25%" height="25%">
 <img src="https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/Peningar.%20SILVUR%20(2).stl" width="25%" height="25%">
 <img src="https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/Pe%C3%B0inn%204.stl" width="25%" height="25%">
-<img src="..." width="25%" height="25%">
+<img src="https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/Barrel.stl" width="25%" height="25%">

@@ -43,4 +43,4 @@ Tomb Runner’s er ævintýra spil þar sem leikmenn eru fastir í helli að rey
 - Ef heppnin er með manni getur maður dregið eitt af góðu tomb spilunum þau gefa þér fleiri peninga en gulu tomb spilin gera eða færa þig áfram um nokkrar reiti, það eru samt mjög fá þannig spil í bunkanum
 - Ef það er engin litur á reitnum ertu örugg/ur og ekkert gerist
 
-<img src="(https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/20260210_113301.jpg)" width="50%" height="50%">
+<img src="https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/20260210_113301.jpg" width="50%" height="50%">

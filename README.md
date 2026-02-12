@@ -44,4 +44,4 @@ Tomb Runner’s er ævintýra spil þar sem leikmenn eru fastir í helli að rey
 - Ef það er engin litur á reitnum ertu örugg/ur og ekkert gerist
 
 <img src="https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/20260210_113301.jpg" width="25%" height="25%">
-<img src="https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/Bordspil-form.svg" width="25%" height="25%">
+<img src="https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/Bordspil-form1.svg" width="25%" height="25%">

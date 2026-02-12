@@ -2,7 +2,7 @@
 ## Andri Hrafn og Sigrún Inga
 ---
 Tomb Runner’s er ævintýra spil þar sem leikmenn eru fastir í helli að reyna að leita af fjársjóð og koma sér út úr hellinum. Það er samt margt sem kemur í veg fyrir að þið komist út, þið getið lenti í allskonar gildrum og skrímslum sem halda þér aftur en samt sem áður geturðu safnað peningum sem hjálpa þér að slepp við gildrunar. 
-
+---
 ## Reglurnar:
 
 ### Hvernig vinnur maður?

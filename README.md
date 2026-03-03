@@ -99,7 +99,7 @@ Flest Tombs hafa bara eina áhrif (Dæmi: +5 Forngripi)  en sum þeirra hafa tv�
 - Á leið þinni framhjá á sérðu kistu fulla af gulli, þú tekur gullið en kistan reynist vera brellukista og lokast strax á hendur þínar. Taktu 10 Forngripi úr tunnunni og bíddu 1 umferð. x1
 - Þú fannst gamlan grip sem gaf frá sér fjólubláan reyk. Hægt er að nota þetta spil til þess að skipta um stöðu hjá tveimur leikmönnum. Þetta spil er sérstakt spil og það er bara til eitt eintak af því. x1
 
-
+### Myndir 
 <img src="https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/20260210_113301.jpg" width="25%" height="25%">
 <img src="https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/Bordspil-form.svg" width="25%" height="25%">
 <img src="https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/20260226_104014.jpg" width="25%" height="25%">
@@ -107,3 +107,6 @@ Flest Tombs hafa bara eina áhrif (Dæmi: +5 Forngripi)  en sum þeirra hafa tv�
 <img src="https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/20260303_112017.jpg" width="25%" height="25%">
 <img src="https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/20260303_112244.jpg" width="25%" height="25%">
 <img src="https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/20260303_112254.jpg" width="25%" height="25%">
+
+### Vídeó
+<a href="https://youtube.com/shorts/oTEBL5i2Gb4" 

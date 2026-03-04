@@ -100,6 +100,7 @@ Flest Tombs hafa bara eina áhrif (Dæmi: +5 Forngripi)  en sum þeirra hafa tv�
 - Þú fannst gamlan grip sem gaf frá sér fjólubláan reyk. Hægt er að nota þetta spil til þess að skipta um stöðu hjá tveimur leikmönnum. Þetta spil er sérstakt spil og það er bara til eitt eintak af því. x1
 
 ### Myndir 
+<img src="https://sigruninga-2.github.io/Tomb-Runner-s/20260210_113301.jpg" width="25%" height="25%">
 <img src="https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/20260210_113301.jpg" width="25%" height="25%">
 <img src="https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/Bordspil-form.svg" width="25%" height="25%">
 <img src="https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/20260226_104014.jpg" width="25%" height="25%">
@@ -114,10 +115,12 @@ Flest Tombs hafa bara eina áhrif (Dæmi: +5 Forngripi)  en sum þeirra hafa tv�
 <img src="https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/Screenshot%202026-03-03%20at%2012.27.57.png" width="25%" height="25%">
 
 ### Vídeó
-"https://youtube.com/shorts/oTEBL5i2Gb4" 
+https://youtube.com/shorts/oTEBL5i2Gb4
 
 ### Kóði
-'''python
+´´´python
+
+
 from machine import Pin, SoftI2C, PWM
 from I2C_LCD import I2cLcd
 from neopixel import NeoPixel
@@ -220,4 +223,4 @@ while True:
         lcd.clear()
 
     sleep_ms(100)
-'''
+´´´

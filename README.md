@@ -119,13 +119,12 @@ https://youtube.com/shorts/oTEBL5i2Gb4
 
 ### Kóði
 ´´´python
-
-
 from machine import Pin, SoftI2C, PWM
 from I2C_LCD import I2cLcd
 from neopixel import NeoPixel
 from random import randint
 from time import sleep, sleep_ms
+´´´
 
 # -------------------
 # BEEP FUNCTION
@@ -223,4 +222,4 @@ while True:
         lcd.clear()
 
     sleep_ms(100)
-´´´
+

@@ -115,7 +115,7 @@ Flest Tombs hafa bara eina áhrif (Dæmi: +5 Forngripi)  en sum þeirra hafa tv�
 
 ### Vídeó
 
-[![Spil](https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/20260303_112017.jpg) width="25%" height="25%"](https://www.youtube.com/shorts/0VWrzuvUy4Q?feature=share)
+[![Spil](https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/20260303_112017.jpg)](https://www.youtube.com/shorts/0VWrzuvUy4Q?feature=share) with="25%" hight="25%"
 
 
 

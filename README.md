@@ -119,11 +119,6 @@ Flest Tombs hafa bara eina áhrif (Dæmi: +5 Forngripi)  en sum þeirra hafa tv�
   <img src="https://raw.githubusercontent.com/SigrunInga-2/Tomb-Runner-s/main/20260303_112017.jpg" style="width:25%;">
 </a>
 
-
-[![Spil](https://github.com/SigrunInga-2/Tomb-Runner-s/blob/main/20260303_112017.jpg)](https://www.youtube.com/shorts/0VWrzuvUy4Q?feature=share) 
-
-
-
 ### Kóði
 ´´´python
 from machine import Pin, SoftI2C, PWM

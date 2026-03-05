@@ -107,11 +107,11 @@ Flest Tombs hafa bara eina áhrif (Dæmi: +5 Forngripi)  en sum þeirra hafa tv�
 <img src="https://sigruninga-2.github.io/Tomb-Runner-s/20260303_112017.jpg" width="25%" height="25%">
 <img src="https://sigruninga-2.github.io/Tomb-Runner-s/20260303_112244.jpg" width="25%" height="25%">
 <img src="https://sigruninga-2.github.io/Tomb-Runner-s/20260303_112254.jpg" width="25%" height="25%">
-<img src="http://github.com/SigrunInga-2/Tomb-Runner-s/commit/5fbc8c0b710454a075bf927354f59d994b31f106" width="25%" height="25%">
 <img src="https://sigruninga-2.github.io/Tomb-Runner-s/Screenshot%202026-03-03%20at%2012.27.23.png" width="25%" height="25%">
 <img src="https://sigruninga-2.github.io/Tomb-Runner-s/Screenshot%202026-03-03%20at%2012.27.38.png" width="25%" height="25%">
 <img src="https://sigruninga-2.github.io/Tomb-Runner-s/Screenshot%202026-03-03%20at%2012.27.51.png" width="25%" height="25%">
 <img src="https://sigruninga-2.github.io/Tomb-Runner-s/Screenshot%202026-03-03%20at%2012.27.57.png" width="25%" height="25%">
+<!-- <img src="http://github.com/SigrunInga-2/Tomb-Runner-s/commit/5fbc8c0b710454a075bf927354f59d994b31f106" width="25%" height="25%"> -->
 
 ### Vídeó
 
@@ -126,7 +126,7 @@ https://github.com/user-attachments/assets/3294c6e5-1f89-479c-be30-0cb93359e731
 
 ### Kóði
 
-´´´python
+```python
 
 from machine import Pin, SoftI2C, PWM
 from I2C_LCD import I2cLcd
@@ -230,4 +230,4 @@ while True:
         lcd.clear()
 
     sleep_ms(100)
-´´´
+```

@@ -115,22 +115,24 @@ Flest Tombs hafa bara eina áhrif (Dæmi: +5 Forngripi)  en sum þeirra hafa tv�
 
 ### Vídeó
 
+<!--
 <a href="https://www.youtube.com/shorts/0VWrzuvUy4Q">
   <img src="https://raw.githubusercontent.com/SigrunInga-2/Tomb-Runner-s/main/20260303_112017.jpg" style="width:25%;">
 </a>
-
+-->
 
 https://github.com/user-attachments/assets/3294c6e5-1f89-479c-be30-0cb93359e731
 
 
 ### Kóði
+
 ´´´python
+
 from machine import Pin, SoftI2C, PWM
 from I2C_LCD import I2cLcd
 from neopixel import NeoPixel
 from random import randint
 from time import sleep, sleep_ms
-´´´
 
 # -------------------
 # BEEP FUNCTION
@@ -228,4 +230,4 @@ while True:
         lcd.clear()
 
     sleep_ms(100)
-
+´´´
